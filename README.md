@@ -2,6 +2,7 @@
 
 ## Overview
 1.20.1 Minecraft Modpack using the Modrinth App
+
 Includes multiplayer world hosting, backpacks, new ores, immortal pets, an overhauled End and Nether, teleportation waypoints, and more.
 
 ## Installation
