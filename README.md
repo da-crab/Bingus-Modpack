@@ -18,13 +18,14 @@
 
 ### Video Settings
 - When you load into a world, you may notice from the FPS counter that Vsync is on. If you want to mess with those options, go to `Video Settings...` in the settings menu.
--Vsync and max framerate can be changed in `General`.
+- Vsync and max framerate can be changed in `General`.
     - Also make sure that fullscreen is enabled, for performance reasons.
--FPS counter can be toggled on and off in `Extras`. 
--You shouldn't have to change anything in the other areas.
+- FPS counter can be toggled on and off in `Extras`. 
+- You shouldn't have to change anything in the other areas.
 
 ### Shaders
 - In the top right corner of `Video Settings...`, you'll find the `Shader Packs` menu. Here, you'll be able to choose either Makeup Ultrafast (Great for lower-end PCs if you still want to use shaders), or Complementary Reimagined (In my opinion the best looking shaders). If you'd like to request other shader packs you like, just let me know, or you can just drag and drop them straight in yourself.
+
 - Keep in mind that, by default, the shaders are set to their minimum quality settings to stop lower-end devices from getting frozen while loading in the shaders. You'll want to go to `Shader Pack Settings...` after clicking on your desired shader pack and click through the profiles until you find one you like that still runs well. (At minimum you want to be consistently above 60 fps, but mess around until you find what seems smooth for you).
 
 ### Keybinds 
