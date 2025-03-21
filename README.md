@@ -1,6 +1,7 @@
-# Bingus-Modpack
-![Github Last Commit](https://img.shields.io/github/last-commit/da-crab/Bingus-Modpack)
-
+# The Bingus Modpack
+![Last Commit](https://img.shields.io/github/last-commit/da-crab/Bingus-Modpack)
+![Release Date](https://img.shields.io/github/release-date/da-crab/Bingus-Modpack)
+![Size](https://img.shields.io/github/languages/code-size/da-crab/Bingus-Modpack)
 ## Overview
 Minecraft Version: 1.20.1
 
