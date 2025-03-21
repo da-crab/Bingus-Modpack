@@ -1,7 +1,6 @@
 # The Bingus Modpack
 ![Last Commit](https://img.shields.io/github/last-commit/da-crab/Bingus-Modpack)
 ![Release Date](https://img.shields.io/github/release-date/da-crab/Bingus-Modpack)
-![Size](https://img.shields.io/github/languages/code-size/da-crab/Bingus-Modpack)
 ## Overview
 Minecraft Version: 1.20.1
 
@@ -15,6 +14,7 @@ Includes [multiplayer world hosting](https://modrinth.com/mod/world-host), [back
 2. Download .mrpack file from [latest release](https://github.com/da-crab/Bingus-Modpack/releases)
 
 3. Open .mrpack file and accept prompt to open with Modrinth App.
+> There might be a prompt to "Update All" mods, don't do it, it might break the game and make you unable to join the server. Also, if you'd like to request any additional mods, let me know.
 
 ## Setup
 > A lot of the following options will be based on your device specifications.
