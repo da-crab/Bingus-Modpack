@@ -18,7 +18,7 @@
 
 
 ## Keybinds 
-- The mods included in this pack have a number of additional keybinds. To customize them yourself, you can go to 'Controls', then to 'Keybinds` in the settings menu. A couple that you will definitely make use of are:
+- The mods included in this pack have a number of additional keybinds. To customize them yourself, you can go to `Controls`, then to 'Keybinds` in the settings menu. A couple that you will definitely make use of are:
 
 - `k` to toggle on and off shaders
 - `r` to reload shaders (if necessary)
