@@ -14,4 +14,4 @@
 ## Setup
 > A lot of the following options will be based on your device's specs.
 
-- When you load into a world, you may notice from the FPS counter that Vsync is on. If you want to mess with those options, go ahead and go to 
+- When you load into a world, you may notice from the FPS counter that Vsync is on. If you want to mess with those options, go to 'Video Settings...' in the settings menu. Vsync and max framerate can be changed in 'General', while the FOS counter can be toggled on and off in 'Extras'.
