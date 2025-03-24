@@ -9,7 +9,7 @@ Installation via Modrinth App
 Includes [multiplayer world hosting](https://modrinth.com/mod/world-host), [backpacks](https://modrinth.com/mod/travelersbackpack), [new ores](https://modrinth.com/mod/mythicmetals), [immortal pets](https://modrinth.com/mod/cozys-improved-cats), an overhauled [End](https://modrinth.com/mod/betterend) and [Nether](https://modrinth.com/mod/betternether), [teleportation waypoints](https://modrinth.com/mod/waystones), and more.
 
 ## Installation
-1. Download [Modrinth App](https://modrinth.com/app) and install.
+1. [Download Modrinth App](https://modrinth.com/app) and install.git
 
 2. Download .mrpack file from [latest release](https://github.com/da-crab/Bingus-Modpack/releases)
 
